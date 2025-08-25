@@ -9,7 +9,7 @@ env_file: ./api-gateway/.env
 depends_on:
   - redis
   - rabbitmq
-environment:
+environment: 
   - REDIS_URL=redis://redis:6379
   - RABBIT_MQ=amqp://rabbitmq:5672
 
