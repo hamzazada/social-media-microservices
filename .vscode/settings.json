@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "amqp",
+        "authmiddleware",
+        "currentpage",
+        "healthcheck",
+        "rabbitmq",
+        "routingkey",
+        "setex",
+        "totalpages",
+        "totalposts",
+        "validatelogin"
+    ]
+}
